@@ -1,0 +1,3 @@
+ADO,2025-01-01,14:30,Orizaba,Chiapas,6.5h,690.5
+ADO,2025-01-01,17:30,Orizaba,Queretaro,3.5h,450.0
+ADO,2025-01-01,15:00,Orizaba,Edo. Mex.,5h,350.0

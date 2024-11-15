@@ -1,0 +1,5 @@
+linea1,2024-11-14,08:30,Orizaba,Cordoba,2h,100.50
+linea2,2024-11-15,09:00,Cordoba,Mendoza,1.5h,80.00
+linea3,2024-11-14,10:00,Orizaba,Mendoza,3h,150.00
+linea4,2024-11-16,07:00,Veracruz,Orizaba,2h,120.00
+linea5,2024-11-17,09:30,Cordoba,Veracruz,2.5h,175.50
